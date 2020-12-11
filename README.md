@@ -37,7 +37,7 @@
 
 # 3. 회원목록조회
 <div>  
-  <img src = "./img/"회원목록조회.PNG width="1000px" height="600px">
+  <img src = "./img/회원목록조회.PNG" width="1000px" height="600px">
 </div>
 
 ## 설명 
@@ -110,7 +110,7 @@
 
 # 7. 검색결과 조회
 <div>  
-  <img src = "./img/" width="1000px" height="600px">
+  <img src = "./img/검색결과조회.PNG" width="1000px" height="600px">
 </div>
 
 ## 설명 
